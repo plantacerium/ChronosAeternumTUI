@@ -1,14 +1,16 @@
-# +---------------------------------------------------------------------------+
-# |                                                                           |
-# |   ______ _                                                                |
-# |  / ____/| |__  _ __ ___  _ __   ___  ___                                  |
-# | | |     | '_ \| '__/ _ \| '_ \ / _ \/ __|                                 |
-# | | |____ | | | | | | (_) | | | | (_) \__ \                                 |
-# |  \_____||_| |_|_|  \___/|_| |_|\___/|___/                                 |
-# |                                                                           |
-# |          ⚜️  C H R O N O S   P L A N T A C E R I U M  ⚜️                   |
-# |                                                                           |
-# +---------------------------------------------------------------------------+
+```text
++---------------------------------------------------------------------------+
+|                                                                           |
+|   ______ _                                                                |
+|  / ____/| |__  _ __ ___  _ __   ___  ___                                  |
+| | |     | '_ \| '__/ _ \| '_ \ / _ \/ __|                                 |
+| | |____ | | | | | | (_) | | | | (_) \__ \                                 |
+|  \_____||_| |_|_|  \___/|_| |_|\___/|___/                                 |
+|                                                                           |
+|          ⚜️  C H R O N O S   P L A N T A C E R I U M  ⚜️                   |
+|                                                                           |
++---------------------------------------------------------------------------+
+```
 ### *Aeternum Precision Archive — The Meditative Breath of Time.*
 
 [![Rust](https://img.shields.io/badge/Rust-2021-DE3423?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
@@ -23,7 +25,7 @@
 
 ## [SYSTEM_OVERVIEW]
 
-![Chronos Plantacerium](./assets/chronos-aeternum.jpg)
+![Chronos Plantacerium](./assets/chronos-aeternum.JPG)
 
 ### � MEDITATIVE GEOMETRY
 The **Vault of Flow** is a high-fidelity environment designed to induce a state of temporal presence.
@@ -92,5 +94,6 @@ In the noise of the modern world, we often lose the 'weight' of our hours. By ba
 
 ---
 *Designed for the elite observer. Built with gold, breath, and precision.*
+
 
 
