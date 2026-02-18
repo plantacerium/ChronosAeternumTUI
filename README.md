@@ -78,7 +78,7 @@ Prepare your terminal for the descent into precision.
 git clone https://github.com/plantacerium/ChronosAeternumTUI
 
 # Enter the archival sanctuary
-cd chronos-plantacerium
+cd ChronosAeternumTUI
 
 # Awaken the instrument
 cargo run
@@ -94,6 +94,7 @@ In the noise of the modern world, we often lose the 'weight' of our hours. By ba
 
 ---
 *Designed for the elite observer. Built with gold, breath, and precision.*
+
 
 
 
