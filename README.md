@@ -34,9 +34,12 @@
 ---
 
 ## [SYSTEM_OVERVIEW V2]
+* Zoom In
 
 ![Chronos Plantacerium](./assets/ChronosAeternumDendrochronology.png)
 
+* Zoom Out
+![Chronos Plantacerium](./assets/ChronosAeternumDendrochronologyZoomOut.png)
 ## 🌿 The Vision: From Chronos to Kairos
 
 Most digital clocks represent *Chronos*—sequential, quantitative time that "runs out." This project captures *Kairos*—the qualitative "opportune moment."
@@ -120,4 +123,5 @@ In the noise of the modern world, we often lose the 'weight' of our hours. By ba
 ---
 *Designed for the elite observer. Built with gold, breath, and precision.*
 > "We are not just moving through time; we are growing through it."
+
 
