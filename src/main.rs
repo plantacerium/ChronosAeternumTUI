@@ -289,7 +289,8 @@ fn main() -> Result<()> {
                             KeyCode::Char('q') | KeyCode::Char('Q') => app.should_quit = true,
                             KeyCode::Char('+') => app.time_multiplier += 0.1,
                             KeyCode::Char('-') => app.time_multiplier = (app.time_multiplier - 0.1).max(0.0),
-
+                            KeyCode::Char('[') => app.spin_velocity += 0.05,
+                            KeyCode::Char(']') => app.spin_velocity -= 0.05,
                             // Angular Navigation (Minutes)
                             KeyCode::Right => {
                                 let new_m = app.selected_minute.map(|m| (m + 1) % 60).unwrap_or(0);
