@@ -23,9 +23,33 @@
 
 ---
 
-## [SYSTEM_OVERVIEW]
+## [SYSTEM_OVERVIEW V1]
 
 ![Chronos Plantacerium](./assets/chronos-aeternum.JPG)
+
+## 🕰️ Chronos Aeternum - Update - The Dendrochronology of Being - Tree Rings.
+
+**Chronos Aeternum** is a meditative Terminal User Interface (TUI) that reimagines time not as a linear arrow of productivity, but as a growing organism. It is a "Meditative Watch" that uses **Git-inspired history** and **Nature-mimicking growth** to visualize the depth of your presence.
+
+---
+
+## [SYSTEM_OVERVIEW V2]
+
+![Chronos Plantacerium](./assets/ChronosAeternumDendrochronology.png)
+
+## 🌿 The Vision: From Chronos to Kairos
+
+Most digital clocks represent *Chronos*—sequential, quantitative time that "runs out." This project captures *Kairos*—the qualitative "opportune moment."
+
+By mapping your meditative notes onto tree rings, the TUI transforms a standard `git log` into **Dendrochronology**. Just as a tree records years of drought or plenty in the thickness of its rings, **Chronos Aeternum** records the frequency of your mindfulness in the density of its "Amber Nodes".
+
+### Biomimicry Principles:
+
+* **Dendrochronology**: Every unique calendar date () births a new layer of "Heartwood," expanding the tree outward.
+* **Amber Encapsulation**: Notes are not just data; they are moments "frozen in resin" at a specific angular coordinate in space-time.
+* **Bioluminescent Resonance**: When the present moment (Live Time) aligns with the minute of a past meditation, the TUI pulses with light, signaling a temporal connection between your past and present selves.
+
+---
 
 ### � MEDITATIVE GEOMETRY
 The **Vault of Flow** is a high-fidelity environment designed to induce a state of temporal presence.
@@ -43,7 +67,7 @@ Usage of the Plantacerium is intended as a daily ritual of presence.
 
 1.  **CENTER**: Align your breathing with the 4-1-8 expansion of the golden rings.
 2.  **NAVIGATE**: Use Arrow Keys to gently drift through the 60 minutes of the hour.
-3.  **LEAP**: Use Up/Down keys to jump between 5-minute petal markers.
+3.  **LEAP**: Use Up/Down keys to jump between rings.
 4.  **INVOKE**: Press `Enter` to open the memory vault.
 5.  **PLANT**: Record your presence. Use **Markdown** to structure your thoughts like architecture.
 6.  **SEAL**: Press `Esc` to lock the node. Your memory is now banked in the **Minute-Level Key** (`YYYY-MM-DD-HH-mm`).
@@ -60,7 +84,8 @@ PERSIST    = "Serde / JSON (The Eternal Script)"
 VISUALS    = "Software-Shader (The Digital Aura)"
 
 [THE_CUES]
-NAVIGATE   = "Left/Right (1m) | Up/Down (5m)"
+NAVIGATE   = "Left/Right (Inner Ring) | Up/Down (Outer Rings)"
+SPIN ASTROLABE = [ / ](Rotate the wheel of history to find temporal alignments)
 OPEN_VAULT = "Enter"
 SEAL_NODE  = "Esc (Preserve Logic)"
 DILATION   = "+/- (Stretch the Moment by 0.1x)"
@@ -94,30 +119,5 @@ In the noise of the modern world, we often lose the 'weight' of our hours. By ba
 
 ---
 *Designed for the elite observer. Built with gold, breath, and precision.*
-
-## 🕰️ Chronos Aeternum - Update - The Dendrochronology of Being
-
-**Chronos Aeternum** is a meditative Terminal User Interface (TUI) that reimagines time not as a linear arrow of productivity, but as a growing organism. It is a "Meditative Watch" that uses **Git-inspired history** and **Nature-mimicking growth** to visualize the depth of your presence.
-
----
-
-## 🌿 The Vision: From Chronos to Kairos
-
-Most digital clocks represent *Chronos*—sequential, quantitative time that "runs out." This project captures *Kairos*—the qualitative "opportune moment."
-
-By mapping your meditative notes onto tree rings, the TUI transforms a standard `git log` into **Dendrochronology**. Just as a tree records years of drought or plenty in the thickness of its rings, **Chronos Aeternum** records the frequency of your mindfulness in the density of its "Amber Nodes".
-
-### Biomimicry Principles:
-
-* **Dendrochronology**: Every unique calendar date () births a new layer of "Heartwood," expanding the tree outward.
-* **Amber Encapsulation**: Notes are not just data; they are moments "frozen in resin" at a specific angular coordinate in space-time.
-* **Bioluminescent Resonance**: When the present moment (Live Time) aligns with the minute of a past meditation, the TUI pulses with light, signaling a temporal connection between your past and present selves.
-
----
-
 > "We are not just moving through time; we are growing through it."
-
-
-
-
 
