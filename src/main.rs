@@ -103,8 +103,6 @@ impl<'a> App<'a> {
             is_editing: false,
             emanations: vec![
                 Emanation { phase_offset: 0.0 },
-                Emanation { phase_offset: 4.33 },
-                Emanation { phase_offset: 8.66 },
             ],
             spin_angle: 0.0,
             spin_velocity: 0.0,
