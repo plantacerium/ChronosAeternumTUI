@@ -23,6 +23,17 @@
 
 ---
 
+<div align="center">
+
+**Made with ❤️ and ☕ by Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** ⭐
+</div>
+
+---
+
 ## [SYSTEM_OVERVIEW V1]
 
 ![Chronos Plantacerium](./assets/chronos-aeternum.JPG)
@@ -125,3 +136,15 @@ In the noise of the modern world, we often lose the 'weight' of our hours. By ba
 > "We are not just moving through time; we are growing through it."
 
 
+---
+
+<div align="center">
+
+**Made with ❤️ and ☕ by Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** ⭐
+</div>
+
+---
